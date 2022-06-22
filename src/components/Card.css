@@ -1,0 +1,17 @@
+.card {
+  /* box-sizing: border-box; */
+  /* background-color: #fdc800; */
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border: 2px solid #bdbdbd;
+  border-radius: 5px;
+  width: 22%;
+}
+
+
+
+.card img {
+  /* height: 200px; */
+  width: 90%;
+  padding: 0 5%;
+}

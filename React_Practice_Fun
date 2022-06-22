@@ -1,0 +1,19 @@
+TASK
+The task is to create a one-page catalog of 9ijakids games in React integrated with an API. 
+The API for the data source is: http://bit.ly/TeaserTask
+Design - https://xd.adobe.com/view/7c40312e-daa7-4e4e-bebb-886688edf809-2913 (feel free to design yours - whatever works for you)
+      Design Assets:
+          1. Top Banner - https://github.com/9ijakidArchitect/Practicetasks/blob/main/Top%20Banner.png
+          2. Timer - https://github.com/9ijakidArchitect/Practicetasks/blob/main/Timer.png
+          3. Newletter = https://github.com/9ijakidArchitect/Practicetasks/blob/main/Newsletter.png
+Duration: No more than 24 hours
+
+REQUIREMENTS:  
+1. Title of the web page: 9ijakids Game Catalog
+2. A search bar to search for games by Topic, Level or Subject
+3. A filter to filter Games by Groups and Levels
+4. For each game, display the title, discription and image
+
+
+Deadline: It is expected that the task is completed within 3-4 hours
+Respond to this email within 24 hours with the link to your task

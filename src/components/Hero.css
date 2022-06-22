@@ -1,0 +1,26 @@
+.hero {
+  box-sizing: border-box;
+  background-image: url("../img/Top-Banner.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 50vh;
+  margin-top: 20px;
+}
+
+.hero-box {
+  max-width: 1150px;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: start;
+}
+
+.hero-box h1 {
+  font-size: 60px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}

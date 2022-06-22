@@ -1,0 +1,39 @@
+.container {
+  box-sizing: border-box;
+}
+
+.container-box {
+  max-width: 1150px;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-box__select {
+  margin: 20px auto;
+}
+
+
+
+.container-box__select select{
+  width: 300px;
+  height: 30px;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.container-box__select input {
+  width: 400px;
+  height: 30px;
+  font-size: 18px;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,40 @@
+.header {
+  box-sizing: border-box;
+  background-color: #fdc800;
+}
+
+.header-box {
+  max-width: 1150px;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-box__location {
+  display: flex;
+  align-items: center;
+}
+
+.header-box__location p {
+  margin-left: 5px;
+}
+
+.header-box__address {
+  display: flex;
+  align-items: center;
+}
+
+.header-box__address p {
+  margin-left: 5px;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+}
+
+.icons div:not(:last-child) {
+  margin-right: 10px;
+}
