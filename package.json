@@ -1,5 +1,5 @@
 {
-  "homepage": "http://prius2055.github.io/9ijakids",
+  "homepage": "http://prius2055.github.io/naijakids",
   "name": "naijakids",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
