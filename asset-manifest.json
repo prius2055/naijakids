@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/naijakids/static/css/main.499c2080.css",
+    "main.js": "/naijakids/static/js/main.0f5dc48d.js",
+    "static/js/787.9a8bcdc5.chunk.js": "/naijakids/static/js/787.9a8bcdc5.chunk.js",
+    "static/media/Top-Banner.png": "/naijakids/static/media/Top-Banner.8acbb5cc4aa53a4137f5.png",
+    "static/media/Newsletter.png": "/naijakids/static/media/Newsletter.c7c2a482314c8ad921bd.png",
+    "static/media/Timer.png": "/naijakids/static/media/Timer.e1604440045285e823df.png",
+    "index.html": "/naijakids/index.html",
+    "main.499c2080.css.map": "/naijakids/static/css/main.499c2080.css.map",
+    "main.0f5dc48d.js.map": "/naijakids/static/js/main.0f5dc48d.js.map",
+    "787.9a8bcdc5.chunk.js.map": "/naijakids/static/js/787.9a8bcdc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.499c2080.css",
+    "static/js/main.0f5dc48d.js"
+  ]
+}
